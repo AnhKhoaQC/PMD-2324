@@ -1,6 +1,5 @@
-# PMD-2324
-INSA 4GP Multi-Project CV-CNN-NPs
-
+# Multidisciplinary Project - 4GP - INSA Toulouse - Tan Anh Khoa NGO - Le Duc Minh TRAN.
+Computer Vision technique for nanoparticles identification and classification
 ## SOMMAIRE
 *** 
   - [Contexte](#contexte)
@@ -40,7 +39,7 @@ INSA 4GP Multi-Project CV-CNN-NPs
 ## Code Arduino
 
 
-### Résumé des particularités de nos programmes et applications
+
 
 
 ## Réalisation du shield
