@@ -1,59 +1,15 @@
 # Multidisciplinary Project - 4GP - INSA Toulouse - Tan Anh Khoa NGO - Le Duc Minh TRAN.
 Computer Vision technique for nanoparticles identification and classification
-## SOMMAIRE
-*** 
-  - [Contexte](#contexte)
-  - [Livrables](#livrables)
-  - [Matériel nécessaire](#matériel-nécessaire)
-  - [1. Simulation électronique du capteur sous LTSpice](#simulation-électronique-du-capteur-sous-ltspice)
-  - [2. Design du PCB sous KiCad](#design-du-pcb-sous-kicad)
-  - [3. Code arduino](#code-arduino)
-  - [4. Application android APK sous MIT App Inventor](#application-android-apk-sous-mit-app-inventor)
-  - [5. Réalisation du shield](#réalisation-du-shield)
-  - [6. Banc de test](#banc-de-test)
-  - [7. Datasheet](#datasheet)
-  - [Contact](#contact) 
-  
 
-*** 
+All the documentation is found in the "pmd-doc" folder including the manual for the algorithm and the training process.
 
-## Contexte
+The tested images and scale bar images are found in "Test image" and "Scale bar image" respectively.
 
+The "code" folder contain the main algorithm Notebook along with 2 usage examples.
 
-## Livrables
+The Notebook used to train the models is found in "Google Colab Training" folder and the used dataset is found in "dataset"
 
-
-## Matériel nécessaire
-
-
-
-## Simulation électronique du capteur sous LTSpice
-
-
-
-
-## Design du PCB sous KiCad
-
-
-
-## Code Arduino
-
-
-
-
-
-## Réalisation du shield
-
-
-
-
-## Banc de test
-
-
-
-## Datasheet
-
-
+Trained models are also pushed on "model-1"
 
 ## Contact
 
